@@ -1,0 +1,13 @@
+streamlit
+google-generativeai
+langchain
+langchain-google-genai
+pypdf
+python-dotenv
+plotly
+pandas
+numpy
+sqlalchemy
+bcrypt
+streamlit-authenticator
+fpdf
